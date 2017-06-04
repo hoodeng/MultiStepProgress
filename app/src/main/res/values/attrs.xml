@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiStepProgress">
+        <attr name="linePaddingTop" format="integer|dimension" />
+        <attr name="linePaddingLeft" format="integer|dimension" />
+        <attr name="linePaddingRight" format="integer|dimension" />
+        <attr name="linePaddingBottom" format="integer|dimension" />
+
+        <attr name="lineHeight" format="integer|dimension" />
+        <attr name="circleRedius" format="integer|dimension" />
+        <attr name="textSize" format="integer|dimension" />
+
+    </declare-styleable>
+</resources>
